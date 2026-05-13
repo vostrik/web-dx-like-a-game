@@ -1,0 +1,8 @@
+{
+  "actions": [
+    { "name": "recommendNecromancer", "utility": "user.likesBones ? 1 : 0.2" },
+    { "name": "recommendAssassin", "utility": "user.likesBelts < 0 ? 0.1 : 0.5" }
+  ]
+}
+
+

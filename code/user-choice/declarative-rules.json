@@ -1,0 +1,13 @@
+{
+  "rules": [
+    { 
+      "condition": { "===": ["user.choice", "Necromancer"] },
+      "component": "NecromancerSkillsPanel" 
+    },
+    {
+      "condition": { "===": ["user.choice", "Assassin"] },
+      "component": "Assassin"
+    }
+  ]
+}
+

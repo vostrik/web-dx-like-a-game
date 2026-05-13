@@ -1,0 +1,2 @@
+player_hp(A) * enemy_hp(B) → player_hp(A) * enemy_hp(B-3) 
+

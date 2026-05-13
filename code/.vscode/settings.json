@@ -1,0 +1,4 @@
+{
+    "typescript.validate.enabled": false,
+    "javascript.validate.enabled": false
+}
